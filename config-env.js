@@ -1,7 +1,7 @@
 const envv2 = require('./config-v2')
 var GITHUB_TOKEN;= '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'
 var BOT_NUMBER;= '923449412639'
-var SESSION_ID;= 'PRABATH-MD~KDJwzaTZ#L3SNLsgNNrXAiUg6Re2IDcgljzG59l83JC4W_JzEER4'
+var SESSION_ID;= 'PRABATH-MD~pNATja7T#Ei2yRg3KMHXkF547YpwUwSSgIgWbh-iviP2f1oh5keg'
 
 const fs = require('fs');
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
